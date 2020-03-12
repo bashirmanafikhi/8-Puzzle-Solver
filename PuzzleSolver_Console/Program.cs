@@ -95,6 +95,8 @@ namespace PuzzleSolver_Console
 
         private static void AutoSolve(Puzzle puzzle)
         {
+
+
             Console.Clear();
             PrintTemplates.Logo2();
             Console.WriteLine("\n    Searching for the shortest answer, Please wait.. !\n");
